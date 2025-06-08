@@ -3,7 +3,7 @@
 **A MERN stack digital marketplace connecting vendors & buyers with Maasai/Matatu-inspired UX.**  
 *(By Davis Wabwile | davewabwile@gmail.com | +254707559957)*  
 
-![NiajeMarket Screenshot](client/public/images/preview.png) *Maasai beadwork UI + Matatu graffiti elements*  
+ https://niajemarket.netlify.app/
 
 ## 🔥 Key Features  
 - **Vendor-Buyer Marketplace** – Listings for cars, mitumba, fundis, etc.  
